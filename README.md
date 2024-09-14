@@ -12,11 +12,17 @@
 
 - 📫 How to reach me *deepakkumarcs4512@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deepakg57171715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepakg57171715" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-kumar-441175229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-441175229" height="30" width="40" /></a>
-<a href="https://instagram.com/toxyinfotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxyinfotech" height="30" width="40" /></a>
+div align="center"> 
+  <a href="mailto:deepaksiwan841408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/deepak4512" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Toxydeep" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
