@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepak+Kumar!;" />
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxydeep&label=Profile%20views&color=0e75b6&style=flat" alt="toxydeep" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxydeep&label=Profile%20views&color=0e75b6&style=flat" alt="deepak7857" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deepakg57171715" target="blank"><img src="https://img.shields.io/twitter/follow/deepakg57171715?logo=twitter&style=for-the-badge" alt="deepakg57171715" /></a> </p>
 
